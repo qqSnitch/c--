@@ -1,0 +1,6 @@
+﻿  metody.cpp
+D:\repos\c++\metody\metody\metody.cpp(218,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\repos\c++\metody\metody\metody.cpp(235,12): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\repos\c++\metody\metody\metody.cpp(239,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\repos\c++\metody\metody\metody.cpp(262,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  metody.vcxproj -> D:\repos\c++\metody\x64\Debug\metody.exe
