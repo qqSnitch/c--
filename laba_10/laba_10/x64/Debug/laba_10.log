@@ -1,0 +1,4 @@
+﻿  laba_10.cpp
+C:\Users\Кирилл\source\repos\laba_10\laba_10\laba_10.cpp(9,6): warning C4101: i: неиспользованная локальная переменная
+C:\Users\Кирилл\source\repos\laba_10\laba_10\laba_10.cpp(87,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  laba_10.vcxproj -> C:\Users\Кирилл\source\repos\laba_10\x64\Debug\laba_10.exe

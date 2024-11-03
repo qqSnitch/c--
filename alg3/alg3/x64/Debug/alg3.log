@@ -1,0 +1,4 @@
+﻿  alg3.cpp
+C:\Users\Кирилл\source\repos\alg3\alg3\alg3.cpp(83,18): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Кирилл\source\repos\alg3\alg3\alg3.cpp(101,18): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  alg3.vcxproj -> C:\Users\Кирилл\source\repos\alg3\x64\Debug\alg3.exe

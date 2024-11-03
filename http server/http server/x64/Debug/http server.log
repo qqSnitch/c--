@@ -1,0 +1,6 @@
+﻿  http server.cpp
+C:\Users\Кирилл\source\repos\http server\http server\http server.cpp(35,23): warning C4244: инициализация: преобразование "SOCKET" в "int", возможна потеря данных
+C:\Users\Кирилл\source\repos\http server\http server\http server.cpp(62,25): warning C4309: инициализация: усечение константного значения
+C:\Users\Кирилл\source\repos\http server\http server\http server.cpp(65,31): warning C4244: =: преобразование "SOCKET" в "int", возможна потеря данных
+C:\Users\Кирилл\source\repos\http server\http server\http server.cpp(119,43): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  http server.vcxproj -> C:\Users\Кирилл\source\repos\http server\x64\Debug\http server.exe

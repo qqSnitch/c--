@@ -1,0 +1,3 @@
+﻿  alg_blitz.cpp
+C:\Users\Кирилл\source\repos\alg_blitz\alg_blitz\alg_blitz.cpp(28,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  alg_blitz.vcxproj -> C:\Users\Кирилл\source\repos\alg_blitz\x64\Debug\alg_blitz.exe

@@ -1,0 +1,4 @@
+﻿  compseti.cpp
+C:\Users\Кирилл\source\repos\compseti\compseti\compseti.cpp(23,22): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+C:\Users\Кирилл\source\repos\compseti\compseti\compseti.cpp(35,23): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+  compseti.vcxproj -> C:\Users\Кирилл\source\repos\compseti\x64\Debug\compseti.exe

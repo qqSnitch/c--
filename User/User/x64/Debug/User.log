@@ -1,0 +1,6 @@
+﻿  User.cpp
+C:\Users\Кирилл\source\repos\User\User\User.cpp(13,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Кирилл\source\repos\User\User\User.cpp(15,25): warning C4129: R: неизвестная escape-последовательность
+C:\Users\Кирилл\source\repos\User\User\User.cpp(16,25): warning C4129: A: неизвестная escape-последовательность
+C:\Users\Кирилл\source\repos\User\User\User.cpp(31,32): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+  User.vcxproj -> C:\Users\Кирилл\source\repos\User\x64\Debug\User.exe

@@ -1,0 +1,6 @@
+﻿  server.cpp
+C:\Users\Кирилл\source\repos\server\server\server.cpp(18,22): warning C4129: R: неизвестная escape-последовательность
+C:\Users\Кирилл\source\repos\server\server\server.cpp(19,22): warning C4129: A: неизвестная escape-последовательность
+C:\Users\Кирилл\source\repos\server\server\server.cpp(23,22): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+C:\Users\Кирилл\source\repos\server\server\server.cpp(35,23): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+  server.vcxproj -> C:\Users\Кирилл\source\repos\server\x64\Debug\server.exe

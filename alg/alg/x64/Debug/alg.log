@@ -1,0 +1,5 @@
+﻿  alg.cpp
+C:\Users\Кирилл\source\repos\alg\alg\alg.cpp(91,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Кирилл\source\repos\alg\alg\alg.cpp(244,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Кирилл\source\repos\alg\alg\alg.cpp(254,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  alg.vcxproj -> C:\Users\Кирилл\source\repos\alg\x64\Debug\alg.exe

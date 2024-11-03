@@ -1,0 +1,5 @@
+﻿  User2.cpp
+C:\Users\Кирилл\source\repos\User2\User2\User2.cpp(16,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Кирилл\source\repos\User2\User2\User2.cpp(17,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Кирилл\source\repos\User2\User2\User2.cpp(46,26): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+  User2.vcxproj -> C:\Users\Кирилл\source\repos\User2\x64\Debug\User2.exe

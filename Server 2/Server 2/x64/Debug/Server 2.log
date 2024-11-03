@@ -1,0 +1,4 @@
+﻿  Server 2.cpp
+C:\Users\Кирилл\source\repos\Server 2\Server 2\Server 2.cpp(25,22): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+C:\Users\Кирилл\source\repos\Server 2\Server 2\Server 2.cpp(41,23): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+  Server 2.vcxproj -> C:\Users\Кирилл\source\repos\Server 2\x64\Debug\Server 2.exe

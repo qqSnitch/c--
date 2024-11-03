@@ -1,0 +1,3 @@
+﻿  server serega.cpp
+C:\Users\Кирилл\source\repos\server serega\server serega\server serega.cpp(175,9): error C2059: синтаксическая ошибка: }
+C:\Users\Кирилл\source\repos\server serega\server serega\server serega.cpp(131): fatal  error C1075: "{": не найдена несоответствующая лексема
