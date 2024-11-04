@@ -1,2 +1,4 @@
 ﻿  metody.cpp
+D:\repos\c++\metody\metody\metody.cpp(294,21): warning C4244: *=: преобразование "double" в "float", возможна потеря данных
+D:\repos\c++\metody\metody\metody.cpp(297,9): warning C4244: =: преобразование "double" в "float", возможна потеря данных
   metody.vcxproj -> D:\repos\c++\metody\x64\Debug\metody.exe
