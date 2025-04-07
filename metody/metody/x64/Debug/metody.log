@@ -1,4 +1,4 @@
 ﻿  metody.cpp
-D:\repos\c++\metody\metody\metody.cpp(294,21): warning C4244: *=: преобразование "double" в "float", возможна потеря данных
-D:\repos\c++\metody\metody\metody.cpp(297,9): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\repos\c++\metody\metody\metody.cpp(974,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\repos\c++\metody\metody\metody.cpp(1010,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
   metody.vcxproj -> D:\repos\c++\metody\x64\Debug\metody.exe

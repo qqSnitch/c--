@@ -1,0 +1,12 @@
+﻿  MetodOptimization laba1.cpp
+D:\repos\c++\MetodOptimization laba1\MetodOptimization laba1\MetodOptimization laba1.cpp(64,17): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\repos\c++\MetodOptimization laba1\MetodOptimization laba1\MetodOptimization laba1.cpp(67,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\repos\c++\MetodOptimization laba1\MetodOptimization laba1\MetodOptimization laba1.cpp(67,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\repos\c++\MetodOptimization laba1\MetodOptimization laba1\MetodOptimization laba1.cpp(68,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\repos\c++\MetodOptimization laba1\MetodOptimization laba1\MetodOptimization laba1.cpp(68,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\repos\c++\MetodOptimization laba1\MetodOptimization laba1\MetodOptimization laba1.cpp(76,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\repos\c++\MetodOptimization laba1\MetodOptimization laba1\MetodOptimization laba1.cpp(76,50): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\repos\c++\MetodOptimization laba1\MetodOptimization laba1\MetodOptimization laba1.cpp(81,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\repos\c++\MetodOptimization laba1\MetodOptimization laba1\MetodOptimization laba1.cpp(81,50): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\repos\c++\MetodOptimization laba1\MetodOptimization laba1\MetodOptimization laba1.cpp(102,18): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  MetodOptimization laba1.vcxproj -> D:\repos\c++\MetodOptimization laba1\x64\Debug\MetodOptimization laba1.exe

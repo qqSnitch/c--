@@ -1,0 +1,9 @@
+n = 8 - Rect: 3.138988 AE: 0.002604; Trap: 3.142895 AE: 0.001302
+n = 32 - Rect: 3.141430 AE: 0.000163; Trap: 3.141674 AE: 0.000081
+n = 128 - Rect: 3.141582 AE: 0.000010; Trap: 3.141598 AE: 0.000005
+Interpolated value at 0.100000: 3.933242
+Interpolated value at 0.200000: 3.835216
+Interpolated value at 0.300000: 3.675926
+Interpolated value at 0.400000: 3.454662
+Interpolated value at 0.600000: 2.938389
+Interpolated value at 0.800000: 2.441974

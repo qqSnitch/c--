@@ -1,0 +1,3 @@
+method,value
+adaptive_simpson,16.9547
+gauss5,16.9703
